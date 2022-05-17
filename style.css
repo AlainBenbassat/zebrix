@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: FlandersArtSans-Regular;
+    src: url('/zebrix/Fonts/FlandersArtSans-Regular.otf');
+    src: url('/zebrix/Fonts/FlandersArtSans-Regular.otf') format('opentype');	
+}
+
+@font-face {
+    font-family: FlandersArtSans-Medium;
+    src: url('/zebrix/Fonts/FlandersArtSans-Medium.otf');
+    src: url('/zebrix/Fonts/FlandersArtSans-Medium.otf') format('opentype');
+}
+
+body{
+	font-family: "FlandersArtSans-Regular";	
+}
+
+.tegast{
+	font-family:"FlandersArtSans-Medium";
+	text-decoration:underline;
+}
